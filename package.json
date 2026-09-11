@@ -9,9 +9,14 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+<<<<<<< HEAD
 "type": "module",
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
+=======
+  "type": "commonjs",
+  "dependencies": {
+>>>>>>> 6c7db6b3a580b418b4b627970abf37c8027936cb
     "dotenv": "^17.4.2",
     "openai": "^7.15.0"
   }
