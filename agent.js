@@ -1,4 +1,9 @@
-<<<<<<< HEAD
+
+
+
+
+
+HEAD
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import dotenv from 'dotenv';
 import readline from 'readline';
@@ -135,7 +140,12 @@ function promptUser() {
 }
 
 promptUser();
-=======
+
+
+
+
+
+
 // 1. Import dependencies
 const { OpenAI } = require('openai');
 require('dotenv').config();
@@ -178,4 +188,3 @@ async function runAgent(userPrompt) {
 
 // Test call
 runAgent("How to defensively access a DOM element in JS?");
->>>>>>> 6c7db6b3a580b418b4b627970abf37c8027936cb
